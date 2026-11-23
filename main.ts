@@ -1,3 +1,4 @@
+// Exactly one number, nothing else.
 // One number, digits only.
 import { mkdirSync, writeFileSync } from "node:fs";
 import { join } from "node:path";
